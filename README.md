@@ -15,7 +15,7 @@
 
 ## What I'm currently learning:
 <p>
-  <img alt="lua" src="https://img.shields.io/badge/-lua-#6B6BB3?style=flat-square&logo=lua&logoColor=white" />
+  <img alt="lua" src="https://img.shields.io/badge/-lua-6b6bb3?style=flat-square&logo=lua&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white" />
 </p>
 
