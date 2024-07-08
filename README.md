@@ -1,33 +1,35 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  # Hi there 👋, I'm Jok3R
-  ![](https://komarev.com/ghpvc/?username=Jock3R99&color=red)
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, i'm Jok3R
+</h1>
 </div>
 
-## 🤔 My skills:
+<h2>🤔 My skills:</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" **alt="Jquery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
+
+</div>
+
+<h2>:seedling: What I'm currently learning:</h2>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Github" **alt="Github" width="40" height="40"/>
 </p>
 
-## 🌱 What I'm currently learning:
-<p>
-  <img alt="lua" src="https://img.shields.io/badge/-lua-6b6bb3?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=white" />
-</p>
-
-## 🔭 My most recent projects:</h3>
+<h2>:telescope: My most recent projects:</h2>
 <ul>
   <li><a href="https://dsc.gg/shopito"><i>Shopito:</i></a> A professional bot to manage your E-commerce discord server.</li>
-</ul>
+</ul></div>
 
-## ⚡ My GitHub contributions summary:
+
+<h2>:zap: My GitHub contributions summary:</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jock3R99&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
