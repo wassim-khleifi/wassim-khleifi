@@ -16,12 +16,12 @@
 ## What I'm currently learning:
 <p>
   <img alt="lua" src="https://img.shields.io/badge/-lua-E34F26?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-django-green?style=flat-square&logo=django&logoColor=black" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white" />
 </p>
 
 ## My most recent projects:</h3>
 <ul>
-  <li><a href="https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414"><i>Shopito:</i></a> A professional bot to manage your E-commerce discord server.</li>
+  <li><a href="https://dsc.gg/shopito"><i>Shopito:</i></a> A professional bot to manage your E-commerce discord server.</li>
 
 ## My GitHub contributions summary:
 
