@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Jok3R
+### I'm a Front-end developer from Tunisia.
+![](https://komarev.com/ghpvc/?username=Jock3R99&color=red)
 
 <!--
 **Jock3r99/Jock3r99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
