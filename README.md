@@ -30,6 +30,9 @@
   <li><a href="https://dsc.gg/shopito"><i>Shopito:</i></a> A professional bot to manage your E-commerce discord server.</li>
 </ul></div>
 
+<h2>🏆 My GitHub trophies:</h2>
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Jock3R99&theme=radical)
 
 <h2>:zap: My GitHub contributions summary:</h2>
 
