@@ -32,7 +32,7 @@
 
 <h2>🏆 My GitHub trophies:</h2>
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=Jock3R99&theme=radical)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Jock3R99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h2>:zap: My GitHub contributions summary:</h2>
 
